@@ -1,12 +1,12 @@
-import { Product } from '../types';
+import { Product } from '../types'
 
 export const db : Product[] = [
     {
         id: 1,
-        name: 'Lukather',
-        image: 'guitarra_01',
-        description: 'Morbi ornare augue nisl, vel elementum dui mollis vel. Curabitur non ex id eros fermentum hendrerit.',
-        price: 299,
+        name: 'La Biblioteca de la Medianoche',
+        image: 'Biblio',
+        description: 'Entre la vida y la muerte hay una biblioteca. Y los estantes de esa biblioteca son infinitos. Cada libro da la oportunidad de probar otra vida que podrías haber vivido y de comprobar cómo habrían cambiado las cosas si hubieras tomado otras decisiones... ¿Habrías hecho algo de manera diferente si hubieras tenido la oportunidad?.',
+        price: 10990,
     },
     {
         id: 2,
