@@ -38,9 +38,9 @@ export const db : Product[] = [
     },
     {
         id: 6,
-        name: 'El Palacio de la Medianoche',
-        image: 'EPDLM',
-        description: 'Calcuta, 1932: El corazón de las tinieblas. Un tren en llamas atraviesa la ciudad. Un espectro de fuego siembra el terror en las sombras de la noche. Pero eso no es más que el principio. En la víspera de cumplir los 16 años, Ben, Sheere y sus amigos deberán enfrentarse al más terrible y mortífero enigma en la historia de la ciudad de los palacios.',
+        name: '1984',
+        image: '1984',
+        description: 'Winston Smith es empleado del Ministerio de la Verdad. Su tarea es la de reescribir los archivos del pasado para que coincidan con la versión dictada por el gobierno actual. Esa versión es una verdad impuesta por el Gran Hermano, que controla y vigila constantemente a cada uno de los habitantes; empobreciendo sus pensamientos, lavándoles el cerebro, incitándolos a denunciar todo y creando miedo permanente.',
         price: 11990,
     },
   ]
